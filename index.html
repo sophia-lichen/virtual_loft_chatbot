@@ -323,8 +323,8 @@
         var myLandbot;
         function initLandbot() {
           if (!myLandbot) {
-            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
-            s.addEventListener('load', function () {
+            var s = document.createElement('script');s.type = 'text/javascript';s.async = true;
+            s.addEventListener('load', function() {
               var myLandbot = new Landbot.Livechat({
                 configUrl: 'https://storage.googleapis.com/landbot.online/v3/H-1458485-E3M4TRLX6UCD9JXK/index.json',
               });
@@ -334,6 +334,6 @@
             x.parentNode.insertBefore(s, x);
           }
         }
-      </script>
+        </script>
 </body>
 </html>
