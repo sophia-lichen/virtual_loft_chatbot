@@ -1,0 +1,18 @@
+@font-face {
+   font-family: "Avenir Next Bold";
+   src: url("fonts/Avenir Next Bold.woff") format("woff"), url("fonts/Avenir Next Bold.eot") format("embedded-opentype"), url("fonts/Avenir Next Bold.ttf") format("truetype"), url("fonts/Avenir Next Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Avenir Medium";
+   src: url("fonts/Avenir Medium.woff") format("woff"), url("fonts/Avenir Medium.eot") format("embedded-opentype"), url("fonts/Avenir Medium.ttf") format("truetype"), url("fonts/Avenir Medium.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Avenir Light";
+   src: url("fonts/Avenir Light.woff") format("woff"), url("fonts/Avenir Light.eot") format("embedded-opentype"), url("fonts/Avenir Light.ttf") format("truetype"), url("fonts/Avenir Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}

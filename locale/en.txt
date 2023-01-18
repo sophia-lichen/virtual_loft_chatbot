@@ -1,0 +1,118 @@
+#: locale=en
+
+## Action
+
+### PDF
+PopupPDFBehaviour_83884BBA_9E19_7253_41CE_A6D20D990AE0.url = files/HSP225-Sleep-Fact-Sheet-DP3_en_en.pdf
+
+### URL
+WebFrame_9135CE06_B4B2_6C40_41DB_E94DB806CC2D.url = <script>
+window.addEventListener('mouseover', initLandbot, { once: true });
+window.addEventListener('touchstart', initLandbot, { once: true });
+var myLandbot;
+function initLandbot() {
+  if (!myLandbot) {
+    var s = document.createElement('script');s.type = 'text/javascript';s.async = true;
+    s.addEventListener('load', function() {
+      var myLandbot = new Landbot.Livechat({
+        configUrl: 'https://storage.googleapis.com/landbot.online/v3/H-1458485-E3M4TRLX6UCD9JXK/index.json',
+      });
+    });
+    s.src = 'https://cdn.landbot.io/landbot-3/landbot-3.0.0.js';
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+  }
+}
+</script>
+PopupWebFrameBehaviour_82FB4972_9E19_BED3_41DB_D574627FBE6A.url = https://sketchfab.com/models/20338685de6e4fecbae75cc8a5e55cc3/embed
+LinkBehaviour_94F0EF64_B4B2_6CC0_41D1_B0CD824B5D60.source = https://twitter.com/3dvista
+LinkBehaviour_96E5D47B_B4B3_9CC0_41CD_BD8B6DF41CE9.source = https://www.facebook.com/3dvista
+LinkBehaviour_BEA75F90_A3A8_FB74_41D4_218112961CDF.source = https://www.ikea.com/au/en/ideas/4-easy-gifts-for-holiday-hosts-pubf93f7dd1
+LinkBehaviour_95DED33E_B4BD_9440_41DD_C7FFD97CA7A4.source = https://www.youtube.com/3dvista
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_8773B632_9E0F_7253_41B8_03915B1B5546.text = ART SPACE
+HotspotPanoramaOverlayTextImage_B90EEE73_9BBF_3A24_41E0_BDA1B289ADCA.text = BEDROOM
+HotspotPanoramaOverlayTextImage_B91D780B_9BC5_E5E4_41DC_546311659CC1.text = DINING ROOM
+HotspotPanoramaOverlayTextImage_8570F7A8_9BCB_6A24_41E1_18A66774FE20.text = DINING ROOM
+HotspotPanoramaOverlayTextImage_B8D055A8_9BDB_EE24_41D1_ABA1152852F7.text = LIVING ROOM
+HotspotPanoramaOverlayTextImage_B9792726_9BCB_6A2C_41DF_D6B22DB9FE42.text = LIVING ROOM
+
+### Tooltip
+HotspotPanoramaOverlayArea_8396EFBF_9E06_B251_41CB_B19B0C855F32.toolTip = 3D model
+HotspotPanoramaOverlayArea_B8AEDB9A_A368_FB74_41CE_F725C933336B.toolTip = Bouquet details
+HotspotPanoramaOverlayArea_BE2CD9DF_A358_E6EC_419C_9D5ACA5BCFDC.toolTip = Candle details
+HotspotPanoramaOverlayArea_88049857_B9FB_3457_4160_3B0D871FB106.toolTip = Full image
+HotspotPanoramaOverlayArea_82D41D53_9511_841F_41D7_846E119B0A9B.toolTip = Go downstairs
+HotspotPanoramaOverlayArea_836C1826_9510_8C39_41DB_80C8013B6F31.toolTip = Go upstairs
+HotspotPanoramaOverlayArea_BD34EC64_A3B9_9DDC_41CD_5F4939F326DC.toolTip = Party gift ideas
+HotspotPanoramaOverlayArea_84D3EF68_9E09_D2FF_41D7_763BFF140B41.toolTip = Sleep tips
+HotspotPanoramaOverlayArea_B948BD89_9E19_F631_41D9_031481BE58B1.toolTip = Sofa details
+HotspotPanoramaOverlayArea_8DBE8EF3_9533_841F_419A_E605681E6176.toolTip = To living room
+HotspotPanoramaOverlayArea_8D7F10D7_94AB_10D4_41D1_C2DE61221864.toolTip = To stairs
+
+## Media
+
+### Audio
+audiores_85963AF0_A368_FAB4_418B_1E508FEF6E1C.mp3Url = media/audio_860131AC_A369_A6AC_41D6_CD4A59F73EE5_en.mp3
+audiores_85963AF0_A368_FAB4_418B_1E508FEF6E1C.oggUrl = media/audio_860131AC_A369_A6AC_41D6_CD4A59F73EE5_en.ogg
+
+### Image
+imlevel_83626261_9E1B_52F1_41D7_2440E80F7471.url = media/panorama_84A2AE94_940B_5654_41DE_277A2E4BED31_HS_o2hhihe1_en.png
+imlevel_836DD218_9E1B_525F_41D4_204E363AC559.url = media/panorama_84A2AE94_940B_5654_41DE_277A2E4BED31_HS_wm35j1p0_en.png
+imlevel_BE5DCF05_9BBB_DBEC_41E3_0AF46E8AEF1E.url = media/panorama_9BA68674_940B_D6D4_41DA_3BF8C8316029_HS_kiockkd5_en.png
+imlevel_BE5FEF7B_9BBB_DA24_41C6_E02155109799.url = media/panorama_9BA68674_940B_D6D4_41DA_3BF8C8316029_HS_rf5ymgiu_en.png
+imlevel_BE523E93_9BBB_DAE4_41D9_A61E3F466944.url = media/panorama_9BBB4A5C_940B_BED4_419F_55062710F327_HS_eia96lwl_en.png
+imlevel_BE57FE29_9BBB_DA24_41DE_23E4ACE39FF0.url = media/panorama_9BBB4A5C_940B_BED4_419F_55062710F327_HS_nyclxo10_en.png
+imlevel_D7FA7406_C23A_3815_41B1_77E8E0E6F7E9.url = media/popup_8B4ADDBE_B9FD_4CD9_41AA_D8ADCAE163A0_en_0_0.png
+imlevel_D7FA5406_C23A_3815_41CF_0BD636A03D28.url = media/popup_8B4ADDBE_B9FD_4CD9_41AA_D8ADCAE163A0_en_0_1.png
+imlevel_D7FA2406_C23A_3815_4194_C1E5C04BBD02.url = media/popup_8B4ADDBE_B9FD_4CD9_41AA_D8ADCAE163A0_en_0_2.png
+imlevel_D7FA0406_C23A_3815_41BB_6D2EA5506535.url = media/popup_8B4ADDBE_B9FD_4CD9_41AA_D8ADCAE163A0_en_0_3.png
+imlevel_D7FA1406_C23A_3815_41E4_9CFCC97F6AF5.url = media/popup_8B4ADDBE_B9FD_4CD9_41AA_D8ADCAE163A0_en_0_4.png
+
+### Popup Image
+
+### Title
+photo_BF686713_A36F_EB74_41C9_6D2780B4E393.label = Bouquet
+photo_BF4010E3_A3A8_A6D4_41DB_B76C40FABE0E.label = Candle
+photo_B7A4CF6D_9E0B_D2F1_41D0_6F0D67A0952B.label = SOFA
+panorama_9BBB4A5C_940B_BED4_419F_55062710F327.label = Scene #1
+panorama_9BA68674_940B_D6D4_41DA_3BF8C8316029.label = Scene #2
+panorama_84A2AE94_940B_5654_41DE_277A2E4BED31.label = Scene #3
+video_8F3260AA_9510_7C09_41C2_C3C9EAF7EF9D.label = TV video
+video_86EBF483_9E1A_D631_419D_A9C0C315E846.label = vangoghmuseum-s0025V1962-800
+video_846D4FAB_9E0A_B271_41D4_19B96F6A8FDC.label = vangoghmuseum-s0031V1962-800
+video_87968F86_9E0B_5233_41D7_6D324D21C995.label = vangoghmuseum-s0047V1962-800
+
+### Video
+videolevel_DD137FDA_C24A_083D_41E6_2B33A07CEC75.url = media/video_846D4FAB_9E0A_B271_41D4_19B96F6A8FDC_en.mp4
+videolevel_DD137FDA_C24A_083D_41E6_2B33A07CEC75.posterURL = media/video_846D4FAB_9E0A_B271_41D4_19B96F6A8FDC_poster_en.jpg
+videolevel_DD13EFC8_C24A_081D_41DF_77E2C7E134FC.url = media/video_86EBF483_9E1A_D631_419D_A9C0C315E846_en.mp4
+videolevel_DD13EFC8_C24A_081D_41DF_77E2C7E134FC.posterURL = media/video_86EBF483_9E1A_D631_419D_A9C0C315E846_poster_en.jpg
+videolevel_DD101FF7_C24A_07F3_41E5_9E5874A87925.url = media/video_87968F86_9E0B_5233_41D7_6D324D21C995_en.mp4
+videolevel_DD101FF7_C24A_07F3_41E5_9E5874A87925.posterURL = media/video_87968F86_9E0B_5233_41D7_6D324D21C995_poster_en.jpg
+videolevel_DD1E7052_C24A_180D_41CF_518D1EC86A91.url = media/video_8F3260AA_9510_7C09_41C2_C3C9EAF7EF9D_en.mp4
+videolevel_DD1E7052_C24A_180D_41CF_518D1EC86A91.posterURL = media/video_8F3260AA_9510_7C09_41C2_C3C9EAF7EF9D_poster_en.jpg
+
+## Popup
+
+### Body
+htmlText_BF232F3A_A3AB_9BB4_41D3_871B5D816AB7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>ADLAD</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A comforting scent of forest and amber with hints of citrus and cypress.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.ikea.com/au/en/p/adlad-scented-candle-in-glass-scandinavian-woods-white-80502187/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;"><B><U>More info</U></B></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_BF831B55_A368_9BFC_41E0_A307726F2EE1.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>SMYCKA</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lifelike artificial bouquet that remains just as fresh-looking and beautiful year after year.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.ikea.com/au/en/p/smycka-artificial-bouquet-white-70409806/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;"><B><U>More info</U></B></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_B8C87DA7_A0C1_944E_41AD_7FF6F4CBF5CF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>VIMLE 3-seat sofa</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This soft sofa will have a long life since the seat cushions are filled with high resilience foam that gives good support for your body and quickly regains its original shape when you get up.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.ikea.com/au/en/p/vimle-3-seat-sofa-gunnared-beige-s39399032/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;"><B><U>More info</U></B></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Label
+Label_A808B6B4_B308_3B52_41D7_19E5D8486942.text = All SPACES
+Label_8FF0DFF2_A9CE_7C70_41E1_C95442713012.text = VIRTUAL LOFT
+Label_8D9208AA_A9C6_2490_41C9_920BD1E25875.text = _________________
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Virtual Loft
